@@ -1,0 +1,7 @@
+{
+  "name": "knex_starter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloominstituteoftechnology/web_code_along_14.1_knex_starter.git"
+  }
+}
